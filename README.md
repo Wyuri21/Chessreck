@@ -37,15 +37,6 @@ python saferun.py --repair-main
 
 Keep a copy of `saferun.py` somewhere outside the Chessreck directory if you want a portable recovery path. It uses Python's standard-library `multiprocessing` module only for capability reporting; no child processes are spawned during import or normal checks.
 
-## License / attribution
-
-Original Chessreck code and modifications: Copyright (c) 2026 wyuri.
-
-Stockfish is a separate third-party component licensed under GNU GPL v3.0.
-Openix is a separate third-party Python package licensed under MIT.
-See `THIRD_PARTY_NOTICES.md`.
-hess behavior while translating user-facing text to English.
-
 ## Recovery tool
 
 `saferun.py` is a standalone recovery/check tool shipped inside the archive. It does not import `main.py` during startup and can restore the distribution's known-good `main.py` from its embedded recovery copy.
