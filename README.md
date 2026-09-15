@@ -2,7 +2,7 @@
   <img src="assets/logo.png" alt="Chessreck Logo" width="220">
 </p>
 
-<h1 align="center"># CHESSRECK</h1>
+<h1 align="center">CHESSRECK</h1>
 
 Just a random useless chess tool. For a warningk Chessreck is not intended to be used as a cheating tool or to violate the rules of any chess platform. Use it responsibly and follow the rules of the platform you're playing on. If you get banned, that's on you. I'm not responsible for any bans, penalties, or other consequences resulting from how you use Chessreck
 
