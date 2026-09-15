@@ -1,6 +1,6 @@
 # Chessreck
 
-Manual chess analyzer for Termux.
+Just a random chess manager that run in termux. For your information, please do not use the program as a cheat,  I created this program purely for fun and as a hobby, and I will not be held responsible AT ALL if you get banned from chess tournaments.
 
 ## Install
 
