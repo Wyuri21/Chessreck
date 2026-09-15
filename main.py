@@ -4,7 +4,7 @@ Copyright (c) 2026 wyuri
 
 Chessreck's original source code is provided by wyuri.
 Stockfish is a separate open-source chess engine licensed under the GNU GPL v3.0.
-See THIRD_PARTY_NOTICES.md for attribution and license information.
+See THIRD_PARTY_NOTICES.md for attribution and license information..
 """
 import json
 import os
