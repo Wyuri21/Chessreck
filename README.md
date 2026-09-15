@@ -1,8 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Chessreck Logo" width="220">
-</p>
-
-<h1 align="center">Chessreck</h1>
+![Chessreck Logo](assets/logo.png)
 
 # Chessreck
 
