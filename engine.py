@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Chessreck v0.3.3 central orchestration layer.
+"""Chessreck v0.1.0 central orchestration layer.
 
 The TUI talks only to EngineManager. EngineManager owns scheduling, resource
 lifecycle, cache, health, normalization, Theresia control, Stockfish usage,
