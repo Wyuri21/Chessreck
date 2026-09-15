@@ -1,0 +1,10 @@
+{
+  "name": "balanced",
+  "risk": 0.5,
+  "attack": 0.5,
+  "tactics": 0.5,
+  "sacrifices": 0.3,
+  "queen_activity": 0.4,
+  "positional": 0.7,
+  "endgame": 0.7
+}
