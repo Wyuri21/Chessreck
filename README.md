@@ -1,5 +1,4 @@
-<p align="center">
-![Chessreck Logo](assets/logo.png)
+<p align="center">![Chessreck Logo](assets/logo.png)
 
 # Chessreck
 
